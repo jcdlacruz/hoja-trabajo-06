@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589390153 source:c:\users\edejuli\desktop\constancias\umg\2020\3er semestre\progra1\github\hoja06\hoja06\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<regex>
+	<type_traits>
+
